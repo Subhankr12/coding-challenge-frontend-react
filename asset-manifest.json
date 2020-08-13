@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/coding-challenge-frontend-react/static/css/main.d91005fb.chunk.css",
+    "main.js": "/coding-challenge-frontend-react/static/js/main.8a196609.chunk.js",
+    "main.js.map": "/coding-challenge-frontend-react/static/js/main.8a196609.chunk.js.map",
+    "runtime-main.js": "/coding-challenge-frontend-react/static/js/runtime-main.75466584.js",
+    "runtime-main.js.map": "/coding-challenge-frontend-react/static/js/runtime-main.75466584.js.map",
+    "static/css/2.36593667.chunk.css": "/coding-challenge-frontend-react/static/css/2.36593667.chunk.css",
+    "static/js/2.58e6a66c.chunk.js": "/coding-challenge-frontend-react/static/js/2.58e6a66c.chunk.js",
+    "static/js/2.58e6a66c.chunk.js.map": "/coding-challenge-frontend-react/static/js/2.58e6a66c.chunk.js.map",
+    "index.html": "/coding-challenge-frontend-react/index.html",
+    "precache-manifest.cf15e260c764676c62dd7c78afeeaec4.js": "/coding-challenge-frontend-react/precache-manifest.cf15e260c764676c62dd7c78afeeaec4.js",
+    "service-worker.js": "/coding-challenge-frontend-react/service-worker.js",
+    "static/css/2.36593667.chunk.css.map": "/coding-challenge-frontend-react/static/css/2.36593667.chunk.css.map",
+    "static/css/main.d91005fb.chunk.css.map": "/coding-challenge-frontend-react/static/css/main.d91005fb.chunk.css.map",
+    "static/js/2.58e6a66c.chunk.js.LICENSE.txt": "/coding-challenge-frontend-react/static/js/2.58e6a66c.chunk.js.LICENSE.txt",
+    "static/media/bike.png": "/coding-challenge-frontend-react/static/media/bike.ecfb8dfe.png",
+    "static/media/loader.gif": "/coding-challenge-frontend-react/static/media/loader.f16c7534.gif",
+    "static/media/logo.png": "/coding-challenge-frontend-react/static/media/logo.73eafb76.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75466584.js",
+    "static/css/2.36593667.chunk.css",
+    "static/js/2.58e6a66c.chunk.js",
+    "static/css/main.d91005fb.chunk.css",
+    "static/js/main.8a196609.chunk.js"
+  ]
+}
